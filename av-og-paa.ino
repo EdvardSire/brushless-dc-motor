@@ -8,7 +8,7 @@ void setup() {
 }
 
 void loop() {
-  int deltat = 100;
+  int deltat = x;
 
   digitalWrite(4, LOW);
   digitalWrite(2, HIGH);
