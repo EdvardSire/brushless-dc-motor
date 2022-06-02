@@ -8,7 +8,7 @@ void setup() {
 }
 
 void loop() {
-  int deltat = x; //( ͡° ͜ʖ ͡°)
+  int delta-t = x; //( ͡° ͜ʖ ͡°)
 
   digitalWrite(4, LOW);
   digitalWrite(2, HIGH);
