@@ -1,14 +1,14 @@
 void setup() {
-  pinMode(2, OUTPUT);
-  pinMode(3, OUTPUT);
-  pinMode(4, OUTPUT);
+  pinMode(2, OUTPUT); //winding-pair A
+  pinMode(3, OUTPUT); //winding-pair B
+  pinMode(4, OUTPUT); //winding-pair C
   digitalWrite(2, LOW);
   digitalWrite(3, LOW);
   digitalWrite(4, LOW);
 }
 
 void loop() {
-  int deltat = x;
+  int deltat = x; //( ͡° ͜ʖ ͡°)
 
   digitalWrite(4, LOW);
   digitalWrite(2, HIGH);
