@@ -5,7 +5,7 @@ The challenge was to only use PLA plastic, coated copper wire, permanent magnets
 
 I learnt basic electromagnitism, created the copper windings, mounted the permanent magnets, and programmed an MCU.
 
-## Motor spinning
+## Motor spinning (turn on sound)
 
 https://github.com/EdvardSire/brushless-dc-motor/assets/45853648/5d418d1b-9ec9-4805-9e21-3e452adbadd7
 
